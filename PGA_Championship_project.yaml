@@ -1,0 +1,21 @@
+---
+Project details:
+  - "Author/DA": "Matthew Asquith"
+  - "Project": "Ironhack solo project 1 (week 3)"
+  - "Subject": "PGA Championship Golf 2024 results"
+...
+---
+Source:
+  - Data source : "https://www.pgatour.com/tournaments/2024/pga-championship/R2024033/leaderboard"
+Data:
+  - pga_champ_24: "C:\\Users\\matth\\Documents\\Ironhack\\Week_3\\Week_3_project\\data\\pga_champ_24"
+  - pga_stats: "C:\\Users\\matth\\Documents\\Ironhack\\Week_3\\Week_3_project\\data\\pga_stats"
+  - r1_scores: "C:\\Users\\matth\\Documents\\Ironhack\\Week_3\\Week_3_project\\data\\r1_scores"
+  - r2_scores: "C:\\Users\\matth\\Documents\\Ironhack\\Week_3\\Week_3_project\\data\\r2_scores"
+  - r3_scores: "C:\\Users\\matth\\Documents\\Ironhack\\Week_3\\Week_3_project\\data\\r3_scores"
+  - r4_scores: "C:\\Users\\matth\\Documents\\Ironhack\\Week_3\\Week_3_project\\data\\r4_scores"
+  - round_1: "C:\\Users\\matth\\Documents\\Ironhack\\Week_3\\Week_3_project\\data\\round_1_hbh"
+  - round_2: "C:\\Users\\matth\\Documents\\Ironhack\\Week_3\\Week_3_project\\data\\round_2_hbh"
+  - round_3: "C:\\Users\\matth\\Documents\\Ironhack\\Week_3\\Week_3_project\\data\\round_3_hbh"
+  - round_4: "C:\\Users\\matth\\Documents\\Ironhack\\Week_3\\Week_3_project\\data\\round_4_hbh"
+...
